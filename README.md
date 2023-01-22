@@ -5,20 +5,6 @@
 <br>
 [Website](https://Schubilegend.dev)
 
-<!--
-**Schubilegend/Schubilegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Minecraft Mods
-- 🌱 I’m currently learning Programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Schubilegend#7978
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Schubilegend&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schubilegend&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schubilegend&theme=midnight-purple&hide_border=true">
