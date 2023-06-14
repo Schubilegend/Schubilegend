@@ -5,6 +5,9 @@
 <br>
 [Website](https://Schubilegend.dev)
 
+![Schubi](https://github.com/Schubilegend/Schubilegend/assets/90055814/7dcec89c-39af-4698-a8a9-a140a7837030)
+
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Schubilegend&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schubilegend&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schubilegend&theme=midnight-purple&hide_border=true">
