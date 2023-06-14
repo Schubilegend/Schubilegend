@@ -10,7 +10,7 @@
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Schubilegend&theme=midnight-purple&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=Schubilegend&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Schubilegend&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white">
+
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
