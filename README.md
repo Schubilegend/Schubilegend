@@ -1,9 +1,26 @@
-# Social Media
-[Discord](https://discord.gg/ogergang)
-<br>
-[Twitter](https://twitter.com/Schubilegend)
-<br>
-[Website](https://Schubilegend.dev)
+```python
+
+class Schubilegend:
+
+    def __info__(self):
+        self.bio = '''
+            Python and Java developer from Germany.
+            I mainly program in python.'''
+        self.age = 16
+
+    def  __social__(self):
+        self.discord = ("Schubilegend#8399", 957050092068679680)
+        self.youtube = ("@Schubilegend")
+    
+    def __dev__(self):
+        self.skills = {
+            "python": "known",
+            "java": "learning"
+        }
+        
+```
+
+
 
 ![Schubi](https://github.com/Schubilegend/Schubilegend/assets/90055814/7dcec89c-39af-4698-a8a9-a140a7837030)
 
