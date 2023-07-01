@@ -9,7 +9,7 @@ class Schubilegend:
         self.age = 16
 
     def  __social__(self):
-        self.discord = ("Schubilegend", 957050092068679680)
+        self.discord = ("Schubilegend420", 1074534783205519400)
         self.youtube = ("@Schubilegend")
     
     def __dev__(self):
