@@ -16,8 +16,7 @@ class Schubilegend:
         self.skills = {
             "python": "known",
             "java": "learning"
-        }
-        
+        } 
 ```
 
 
