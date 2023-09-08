@@ -15,7 +15,8 @@ class Schubilegend:
     def __dev__(self):
         self.skills = {
             "python": "known",
-            "java": "learning"
+            "java": "learning",
+            "JavaScript": "learning"
         } 
 ```
 
