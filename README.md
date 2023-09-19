@@ -55,3 +55,4 @@ class Schubilegend:
 ![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
