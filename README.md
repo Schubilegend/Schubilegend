@@ -9,9 +9,8 @@ class Schubilegend:
         self.age = 16
 
     def  __social__(self):
-        self.discord = ("Schubilegend420", 1074534783205519400)
-        self.youtube = ("@Schubilegend"),
-        self.support_server = ("https://discord.gg/a7j2kJ9ktz")
+        self.discord = (username="schubilegend420", id=1074534783205519400, server="https://discord.gg/a7j2kJ9ktz")
+        self.youtube = ("@Schubilegend")
     
     def __dev__(self):
         self.skills = {
