@@ -10,7 +10,8 @@ class Schubilegend:
 
     def  __social__(self):
         self.discord = ("Schubilegend420", 1074534783205519400)
-        self.youtube = ("@Schubilegend")
+        self.youtube = ("@Schubilegend"),
+        self.support_server = ("https://discord.gg/a7j2kJ9ktz")
     
     def __dev__(self):
         self.skills = {
