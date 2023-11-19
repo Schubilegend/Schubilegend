@@ -37,6 +37,7 @@ class Schubilegend:
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/Python-0078D6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-0078D6?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
