@@ -41,6 +41,7 @@ class Schubilegend:
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ## IDEs
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
