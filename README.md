@@ -18,7 +18,8 @@ class Schubilegend:
             "html": "known",
             "css": "known",
             "java": "learning",
-            "javascript": "learning"
+            "javascript": "learning",
+            "golang": "learning"
         } 
 ```
 
